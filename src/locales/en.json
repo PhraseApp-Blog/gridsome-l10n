@@ -1,0 +1,5 @@
+{
+  "welcome": "Welcome to Gridsome i18n!",
+  "apple": "no apples | one apple | {count} apples",
+  "banana": "no bananas | {n} banana | {n} bananas"
+}

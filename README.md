@@ -1,0 +1,1 @@
+# gridsome-i18n
